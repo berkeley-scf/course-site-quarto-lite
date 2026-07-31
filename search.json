@@ -1,22 +1,12 @@
 [
   {
-    "objectID": "syllabus.html",
-    "href": "syllabus.html",
-    "title": "Syllabus",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Department 999: Generic Class",
     "section": "",
-    "text": "Jump to:",
+    "text": "Ed\n\n  DataHub\n\n  Gradescope\n\n  bCourses\n\n\nNo matching items\n\nInsert text about the class here.",
     "crumbs": [
-      "Syllabus"
-    ]
-  },
-  {
-    "objectID": "syllabus.html#about-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20766172206465706172746d656e74203e7d7d-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20766172206e756d626572203e7d7d",
-    "href": "syllabus.html#about-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20766172206465706172746d656e74203e7d7d-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20766172206e756d626572203e7d7d",
-    "title": "Syllabus",
-    "section": "About Department 999",
-    "text": "About Department 999\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus dui, euismod vel tellus sit amet, maximus fringilla risus. Cras nec maximus leo. Fusce sit amet tortor pellentesque, hendrerit odio vitae, dictum lorem. Nunc sed nunc nisl. Cras augue tortor, ultrices ut luctus non, dictum nec magna. Cras vel ex purus. In blandit est non finibus dignissim. Donec vehicula, nisi quis rutrum faucibus, est turpis ultrices nibh, quis rutrum diam nibh tempus nulla. Vestibulum malesuada consectetur ex in vestibulum.\n\nGoals\n\nGoal 1\nGoal 2\nGoal 3\n\n\n\nPrerequisites\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus dui, euismod vel tellus sit amet, maximus fringilla risus. Cras nec maximus leo. Fusce sit amet tortor pellentesque, hendrerit odio vitae, dictum lorem. Nunc sed nunc nisl. Cras augue tortor, ultrices ut luctus non, dictum nec magna. Cras vel ex purus. In blandit est non finibus dignissim. Donec vehicula, nisi quis rutrum faucibus, est turpis ultrices nibh, quis rutrum diam nibh tempus nulla. Vestibulum malesuada consectetur ex in vestibulum.",
-    "crumbs": [
-      "Syllabus"
+      "Home"
     ]
   },
   {
@@ -40,13 +30,23 @@
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Department 999: Generic Class",
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
+    "title": "Syllabus",
     "section": "",
-    "text": "Ed\n\n  DataHub\n\n  Gradescope\n\n  bCourses\n\n\nNo matching items\n\nInsert text about the class here.",
+    "text": "Jump to:",
     "crumbs": [
-      "Home"
+      "Syllabus"
+    ]
+  },
+  {
+    "objectID": "syllabus.html#about-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20766172206465706172746d656e74203e7d7d-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20766172206e756d626572203e7d7d",
+    "href": "syllabus.html#about-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20766172206465706172746d656e74203e7d7d-b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20766172206e756d626572203e7d7d",
+    "title": "Syllabus",
+    "section": "About Department 999",
+    "text": "About Department 999\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus dui, euismod vel tellus sit amet, maximus fringilla risus. Cras nec maximus leo. Fusce sit amet tortor pellentesque, hendrerit odio vitae, dictum lorem. Nunc sed nunc nisl. Cras augue tortor, ultrices ut luctus non, dictum nec magna. Cras vel ex purus. In blandit est non finibus dignissim. Donec vehicula, nisi quis rutrum faucibus, est turpis ultrices nibh, quis rutrum diam nibh tempus nulla. Vestibulum malesuada consectetur ex in vestibulum.\n\nGoals\n\nGoal 1\nGoal 2\nGoal 3\n\n\n\nPrerequisites\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus lectus dui, euismod vel tellus sit amet, maximus fringilla risus. Cras nec maximus leo. Fusce sit amet tortor pellentesque, hendrerit odio vitae, dictum lorem. Nunc sed nunc nisl. Cras augue tortor, ultrices ut luctus non, dictum nec magna. Cras vel ex purus. In blandit est non finibus dignissim. Donec vehicula, nisi quis rutrum faucibus, est turpis ultrices nibh, quis rutrum diam nibh tempus nulla. Vestibulum malesuada consectetur ex in vestibulum.",
+    "crumbs": [
+      "Syllabus"
     ]
   }
 ]
